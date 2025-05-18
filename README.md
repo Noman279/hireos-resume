@@ -91,99 +91,35 @@ Welcome to **HireOS Resume Generator**, an AI-powered tool designed to help job 
 ## 🚀 Getting Started
 
 ### Clone the repository
-```bash
-git clone https://github.com/Noman279/resume-generator.git
-cd resume-generator
+```bash# HireOS Resume Generator
+
+**HireOS Resume Generator** is an AI-powered tool that helps job seekers create professional, personalized resumes with ease. Powered by OpenAI and built for performance, it ensures your resume makes a lasting impression.
 
 ---
 
-## 📄 License
+## ✨ Features
 
-MIT — Use with attribution.
-
----
-
-*Make a first impression that lasts.*# HireOS Resume Generator
-
-**HireOS Resume Generator** is an AI-powered tool to create professional resumes quickly and easily, helping job seekers build standout CVs.
-
----
-
-### ✨ Features
-
-- Generate customized resumes using AI
+- AI-generated resume content
 - Multiple resume templates
-- Download resumes as PDF
-- User-friendly interface
+- Download as PDF
+- Real-time preview & editing
+- Responsive and clean UI
 
 ---
 
-### 🛠️ Built With
+## 🛠️ Tech Stack
 
-- React
-- Node.js (backend API)
-- TailwindCSSnpm install
-- OpenAI API
+- **Frontend:** React, TailwindCSS
+- **Backend:** Node.js, Express
+- **AI API:** OpenAI GPT
 
 ---
 
-### 🚀 Getting Started
+## 🚀 Getting Started
 
-#### Clone the repository:
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Noman279/resume-generator.git
-cd resume-generator/backend/backend       # Backend API code
-/frontend      # React frontend code
-/public       # Static assets
+git clone https://github.com/Noman279/hireos-resume.git
+cd hireos-resume
 
-/frontendnpm run devgit clone https://github.com/Noman279/resume-generator.git
-cd resume-generator
-
----
-
-## 📄 License
-
-MIT — Use with attribution.
-
----
-
-*Make a first impression that lasts.*# HireOS Resume Generator
-
-**HireOS Resume Generator** is an AI-powered tool to create professional resumes quickly and easily, helping job seekers build standout CVs.
-
----
-
-### ✨ Features
-
-- Generate customized resumes using AI
-- Multiple resume templates
-- Download resumes as PDF
-- User-friendly interface
-
----
-
-### 🛠️ Built With
-
-- React
-- Node.js (backend API)
-- TailwindCSSnpm install
-- OpenAI API
-
----
-
-### 🚀 Getting Started
-
-#### Clone the repository:
-
-```bash
-git clone https://github.com/Noman279/resume-generator.git
-cd resume-generator/backend/backend       # Backend API code
-/frontend      # React frontend code
-/public       # Static assets
-
-/frontendnpm run dev
-npm installnpm run devOPENAI_API_KEY=your_openai_api_key
-npm installOPENAI_API_KEY=your_openai_api_key_here
-npm installnpm run devOPENAI_API_KEY=your_openai_api_key
-npm installOPENAI_API_KEY=your_openai_api_key_here
