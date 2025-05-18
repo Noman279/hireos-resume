@@ -88,38 +88,5 @@ Welcome to **HireOS Resume Generator**, an AI-powered tool designed to help job 
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the repository
-```bash# HireOS Resume Generator
-
-**HireOS Resume Generator** is an AI-powered tool that helps job seekers create professional, personalized resumes with ease. Powered by OpenAI and built for performance, it ensures your resume makes a lasting impression.
-
----
-
-## ✨ Features
-
-- AI-generated resume content
-- Multiple resume templates
-- Download as PDF
-- Real-time preview & editing
-- Responsive and clean UI
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React, TailwindCSS
-- **Backend:** Node.js, Express
-- **AI API:** OpenAI GPT
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Noman279/hireos-resume.git
-cd hireos-resume
+## 🚀 Getting Star
 
