@@ -74,4 +74,36 @@ MIT — Use with attribution.
 
 ---
 
-*Make a first impression that lasts.*
+*Make a first impression that lasts.*# HireOS Resume Generator
+
+**HireOS Resume Generator** is an AI-powered tool to create professional resumes quickly and easily, helping job seekers build standout CVs.
+
+---
+
+### ✨ Features
+
+- Generate customized resumes using AI
+- Multiple resume templates
+- Download resumes as PDF
+- User-friendly interface
+
+---
+
+### 🛠️ Built With
+
+- React
+- Node.js (backend API)
+- TailwindCSS
+- OpenAI API
+
+---
+
+### 🚀 Getting Started
+
+#### Clone the repository:
+
+```bash
+git clone https://github.com/Noman279/resume-generator.git
+cd resume-generator/backend
+/frontend
+npm installnpm run devOPENAI_API_KEY=your_openai_api_key
