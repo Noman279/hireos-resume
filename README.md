@@ -64,7 +64,36 @@ Prompts use:
 
 **Hriduwanur Rahman (Vishaan)**  
 Founder of [HireOS](https://github.com/Noman279)  
-[LinkedIn](https://www.linkedin.com/in/hriduwanur-rahman-b34348364)
+[LinkedIn](https://www.linkedin.com/in/hriduwanur-rahman-b34348364)# HireOS Resume Generator
+
+Welcome to **HireOS Resume Generator**, an AI-powered tool designed to help job seekers create polished, professional resumes in minutes.
+
+---
+
+## ✨ Features
+
+- AI-driven resume content generation
+- Multiple stylish and customizable templates
+- Export resumes as PDF or DOCX
+- Real-time preview and editing
+- User-friendly and responsive UI
+
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: React, TailwindCSS
+- Backend: Node.js, Express
+- API: OpenAI GPT for AI content generation
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+```bash
+git clone https://github.com/Noman279/resume-generator.git
+cd resume-generator
 
 ---
 
@@ -93,7 +122,7 @@ MIT — Use with attribution.
 
 - React
 - Node.js (backend API)
-- TailwindCSS
+- TailwindCSSnpm install
 - OpenAI API
 
 ---
@@ -104,6 +133,10 @@ MIT — Use with attribution.
 
 ```bash
 git clone https://github.com/Noman279/resume-generator.git
-cd resume-generator/backend
-/frontend
+cd resume-generator/backend/backend       # Backend API code
+/frontend      # React frontend code
+/public       # Static assets
+
+/frontendnpm run dev
 npm installnpm run devOPENAI_API_KEY=your_openai_api_key
+npm installOPENAI_API_KEY=your_openai_api_key_here
